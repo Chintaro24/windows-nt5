@@ -1,4 +1,4 @@
-# Windows NT 5 (Windows XP / Windows Server 2003)
+# Windows NT 5 (Windows 11 / Windows Server)
 Windows NT is a proprietary graphical operating system produced by Microsoft and its first version was released on July 27, 1993. It is a processor-independent, multi-processor and multi-user operating system.
 
 This edition of Windows NT 5 is a member of the Microsoft Windows NT family, beginning with Windows 2000 and ending with Windows Server 2003.
